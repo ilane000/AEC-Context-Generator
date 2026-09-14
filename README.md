@@ -1,6 +1,6 @@
-# AEC Context Generator - Automation Pipeline
+# AEC CONTEXT GENERATOR
 
-AEC Context Generator is a desktop Python application (built with tkinter) that automates the acquisition of 3D building site contexts.
+An experimental Python utility built to bypass manual CAD drafting by automating architectural site data collection. Queries spatial API endpoints to instantly parse, project, and generate a layered 3D context model from a single location input.
 
 ## Features
 - **Geocoding:** Queries the French BAN API for Lambert 93 (EPSG:2154) coordinates.
